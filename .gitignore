@@ -1,0 +1,14 @@
+build
+stage
+.svn
+.gradle
+lib
+.metadata/
+.settings/
+.classpath
+.project
+/caches/
+/native/
+/wrapper/
+/daemon/
+/target/
