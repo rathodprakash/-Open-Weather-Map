@@ -15,4 +15,4 @@
 
 #### Reference
 
-* [OpenWeatherMap](https://home.openweathermap.org/api_keys)
+* [OpenWeatherMap](https://openweathermap.org/appid#use)
